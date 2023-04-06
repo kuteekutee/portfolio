@@ -1,0 +1,30 @@
+body {
+  background-image: url("./assets/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.8;
+}
+div {
+  display: block;
+}
+.container {
+  width: 60%;
+  border: solid 1px #ccc;
+  margin: 10px auto;
+  padding: 0px 20px;
+}
+
+.imageContainer {
+  text-align: center;
+}
+.image {
+  width: 180px;
+  aspect-ratio: 3/4;
+  border: solid 1px #ccc;
+}
+
+hr.hr {
+width: 60%;
+border: solid 1px #ccc;
+}
