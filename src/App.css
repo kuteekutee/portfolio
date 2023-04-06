@@ -6,10 +6,12 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
-
-.container {
   opacity: 0.8;
+}
+div {
+  display: block;
+}
+.container {
   width: 66%;
   border: solid 1px #ccc;
   margin: 10px auto;
